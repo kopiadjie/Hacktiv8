@@ -1,0 +1,9 @@
+compile = dari kode ke output
+intrepreter = bisa ga dicompile
+pemograman python => overpower calculator
+
+Introduction Basic Python
+
+
+git init
+git status
